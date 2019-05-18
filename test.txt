@@ -3,3 +3,4 @@ nemui
 aaaaaaa
 xi(i) * yi(i)
 developing
+otukare
