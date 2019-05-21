@@ -3,8 +3,12 @@ nemui
 aaaaaaa
 xi(i) * yi(i)
 <<<<<<< HEAD
+<<<<<<< HEAD
 5/21
 =======
 developing
 otukare
 >>>>>>> 92e4781... ADD:otsukare
+=======
+5/21
+>>>>>>> a49cb4a... ADD:date
